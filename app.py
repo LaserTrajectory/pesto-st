@@ -1,5 +1,4 @@
 from os import name
-from altair.vegalite.v4.schema.core import Mark
 import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
